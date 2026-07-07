@@ -6,9 +6,60 @@
 
 ---
 
-🎓 **B.Tech in Computer Science & Engineering** — passionate about **Artificial Intelligence**, **Machine Learning**, **LLM applications**, **Software Development**, and **Blockchain technologies**.
+## 🙋‍♂️ About Me
 
-💡 I love building scalable AI solutions, solving real-world problems through technology, and continuously learning modern advancements in software engineering and AI.
+```python
+class SahilRaghatate:
+    def __init__(self):
+        self.name        = "Sahil Raghatate"
+        self.degree      = "B.Tech – Computer Science & Engineering (Final Year)"
+        self.cgpa        = 7.74
+        self.location    = "India 🇮🇳"
+        self.focus       = ["AI & ML", "Blockchain & Web3", "Backend Development"]
+        self.current     = "Building intelligent systems & contributing to Open Source"
+        self.goal        = "Engineer AI solutions that solve real-world problems"
+        self.fun_fact    = "I turn chai ☕ into code 💻"
+
+    def say_hi(self):
+        print("Thanks for stopping by! Let's build something amazing together 🚀")
+```
+
+---
+
+### 👨‍💻 Who Am I?
+
+I'm a **final-year B.Tech Computer Science student** with a deep passion for **Artificial Intelligence**, **Machine Learning**, **LLM applications**, **Backend Development**, and **Blockchain technologies**.
+
+My journey started with curiosity — wondering how machines can *think*, how code can *detect fraud*, and how blockchain can *secure health records* without a central authority. That curiosity turned into projects, internships, and a commitment to keep building.
+
+---
+
+### 🔥 What Drives Me
+
+- 🤖 **AI & Machine Learning** — I've built real systems: an **ML-based fraud detection engine** using XGBoost that reduced false positives by ~25%, and I'm constantly exploring how models learn and generalize.
+- 🔗 **Blockchain & Web3** — Designed a **Hyperledger Fabric-based Electronic Health Record system** with decentralized, cryptographically secured patient data. I believe decentralization is the future of trust.
+- ⚙️ **Backend & APIs** — I build production-grade REST APIs using **FastAPI**, containerize with **Docker**, and design systems that are clean, scalable, and maintainable.
+- 🌍 **Open Source** — Actively contributing to GSSoC'26. I believe the best way to grow is to work on real codebases with real developers.
+
+---
+
+### 🎓 Experience Snapshot
+
+| 🏢 Role | 🏛️ Organization | 📅 Duration |
+|---|---|---|
+| AI & ML Intern | Edunet Foundation × AICTE | Jan 2026 – Feb 2026 |
+| Open Source Contributor | GirlScript Summer of Code (GSSoC'26) | 2026 |
+
+---
+
+### ⚡ Quick Facts
+
+- 🎓 Final year CSE student — graduating 2027
+- 🤝 Completed AI/ML internship under **AICTE initiative**
+- 🏗️ Built projects spanning **ML**, **Blockchain**, and **Distributed Systems**
+- ☁️ Exploring **AWS**, **Azure**, and **Cloud Deployment**
+- 💬 Languages I speak: `Python`, `Java`, `C++`, `Solidity` — and fluent in `Coffee` ☕
+- 📫 Always open to collaborations, projects, and interesting conversations!
 
 ---
 
@@ -18,7 +69,7 @@
   <a href="https://github.com/SahilSolve02">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/sahil-raghatate-9613893ba/">
+  <a href="https://www.linkedin.com/in/sahil-raghatate-9613893ba/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:sahil.raghatate.dev@gmail.com">
@@ -36,8 +87,15 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **AI / ML**
 
@@ -57,7 +115,10 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
