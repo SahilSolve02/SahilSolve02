@@ -1,71 +1,10 @@
-<h1 align="center">Hi there, I'm Sahil Raghatate 👋</h1>
+<h1 align="center">Hi there, I'm Sahil 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Aspiring+AI+%26+Software+Engineer;Machine+Learning+%7C+LLMs+%7C+Blockchain;FastAPI+%7C+Docker+%7C+Backend+Dev;Open+Source+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Aspiring+AI+%26+Software+Engineer+%F0%9F%9A%80;Machine+Learning+%7C+LLMs+%7C+Generative+AI;Blockchain+%7C+Hyperledger+Fabric+%7C+Web3;FastAPI+%7C+Docker+%7C+Backend+Development;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
 </p>
 
----
-
-## 🙋‍♂️ About Me
-
-```python
-class SahilRaghatate:
-    def __init__(self):
-        self.name        = "Sahil Raghatate"
-        self.degree      = "B.Tech – Computer Science & Engineering (Final Year)"
-        self.cgpa        = 7.74
-        self.location    = "India 🇮🇳"
-        self.focus       = ["AI & ML", "Blockchain & Web3", "Backend Development"]
-        self.current     = "Building intelligent systems & contributing to Open Source"
-        self.goal        = "Engineer AI solutions that solve real-world problems"
-        self.fun_fact    = "I turn chai ☕ into code 💻"
-
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something amazing together 🚀")
-```
-
----
-
-### 👨‍💻 Who Am I?
-
-I'm a **final-year B.Tech Computer Science student** with a deep passion for **Artificial Intelligence**, **Machine Learning**, **LLM applications**, **Backend Development**, and **Blockchain technologies**.
-
-My journey started with curiosity — wondering how machines can *think*, how code can *detect fraud*, and how blockchain can *secure health records* without a central authority. That curiosity turned into projects, internships, and a commitment to keep building.
-
----
-
-### 🔥 What Drives Me
-
-- 🤖 **AI & Machine Learning** — I've built real systems: an **ML-based fraud detection engine** using XGBoost that reduced false positives by ~25%, and I'm constantly exploring how models learn and generalize.
-- 🔗 **Blockchain & Web3** — Designed a **Hyperledger Fabric-based Electronic Health Record system** with decentralized, cryptographically secured patient data. I believe decentralization is the future of trust.
-- ⚙️ **Backend & APIs** — I build production-grade REST APIs using **FastAPI**, containerize with **Docker**, and design systems that are clean, scalable, and maintainable.
-- 🌍 **Open Source** — Actively contributing to GSSoC'26. I believe the best way to grow is to work on real codebases with real developers.
-
----
-
-### 🎓 Experience Snapshot
-
-| 🏢 Role | 🏛️ Organization | 📅 Duration |
-|---|---|---|
-| AI & ML Intern | Edunet Foundation × AICTE | Jan 2026 – Feb 2026 |
-| Open Source Contributor | GirlScript Summer of Code (GSSoC'26) | 2026 |
-
----
-
-### ⚡ Quick Facts
-
-- 🎓 Final year CSE student — graduating 2027
-- 🤝 Completed AI/ML internship under **AICTE initiative**
-- 🏗️ Built projects spanning **ML**, **Blockchain**, and **Distributed Systems**
-- ☁️ Exploring **AWS**, **Azure**, and **Cloud Deployment**
-- 💬 Languages I speak: `Python`, `Java`, `C++`, `Solidity` — and fluent in `Coffee` ☕
-- 📫 Always open to collaborations, projects, and interesting conversations!
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
+<p align="center">
   <a href="https://github.com/SahilSolve02">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -76,6 +15,23 @@ My journey started with curiosity — wondering how machines can *think*, how co
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+---
+
+### 👨‍💻 Who Am I?
+
+I'm a **B.Tech Computer Science & Engineering student** with a deep passion for **Artificial Intelligence**, **Machine Learning**, **LLM applications**, **Backend Development**, and **Blockchain technologies**.
+
+My journey started with curiosity — wondering how machines can *think*, how code can *detect fraud*, and how blockchain can *secure health records* without a central authority. That curiosity turned into projects, internships, and a commitment to keep building.
+
+---
+
+### 🔥 What Drives Me
+
+- 🤖 **AI & Machine Learning** — Built a real **ML-based fraud detection engine** using XGBoost that reduced false positives by ~25%.
+- 🔗 **Blockchain & Web3** — Designed a **Hyperledger Fabric-based Electronic Health Record system** with decentralized, cryptographically secured patient data.
+- ⚙️ **Backend & APIs** — Production-grade REST APIs with **FastAPI**, containerized using **Docker**, clean and scalable.
+- 🌍 **Open Source** — Actively contributing to GSSoC'26. Real codebases, real teams, real impact.
 
 ---
 
@@ -108,6 +64,7 @@ My journey started with curiosity — wondering how machines can *think*, how co
 **Backend & APIs**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
@@ -115,7 +72,6 @@ My journey started with curiosity — wondering how machines can *think*, how co
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
@@ -173,17 +129,6 @@ I believe open source is where real learning happens — working with real codeb
 
 ---
 
-## 🎯 2026 Goals
-
-- 🎯 Build impactful AI applications
-- 🎯 Become an active Open Source Contributor
-- 🎯 Master Machine Learning & Deep Learning
-- 🎯 Learn Cloud Deployment (AWS / Azure)
-- 🎯 Contribute consistently on GitHub
-- 🎯 Build production-ready software
-
----
-
 ## 💭 Developer Philosophy
 
 <p align="center">
@@ -204,6 +149,10 @@ I believe open source is where real learning happens — working with real codeb
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilSolve02&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SahilSolve02&theme=tokyo-night&hide_border=true" width="95%" />
 </p>
 
 ---
